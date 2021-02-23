@@ -1,4 +1,3 @@
-```{r}
 ## Define ciEnvelope function
 ciEnvelope <- function(x,ylo,yhi,col="lightgrey",...){
   ## identify chunks of data with no missing values
@@ -41,4 +40,3 @@ plot.phenocam <- function(dat,...){
   }
   
 }
-```
